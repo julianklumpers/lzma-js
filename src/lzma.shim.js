@@ -175,3 +175,6 @@ var LZMA = LZMA || {};
 	}
 
 })(LZMA);
+
+module.exports = LZMA
+
